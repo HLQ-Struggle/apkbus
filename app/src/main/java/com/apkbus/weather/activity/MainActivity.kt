@@ -66,4 +66,5 @@ class MainActivity : BaseActivity() {
             showToast(mActivity, "2秒内双击退出“巴士天气”")
         }
     }
+
 }
